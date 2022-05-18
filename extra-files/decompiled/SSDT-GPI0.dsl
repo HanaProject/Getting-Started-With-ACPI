@@ -8,3 +8,4 @@ DefinitionBlock("", "SSDT", 2, "DRTNIA", "GPI0", 0)
         \GPEN = One
     }
 }
+#sus
